@@ -1,10 +1,11 @@
 our submission to bioinformatics 2019
 
-# abstract [changed]
-# research questions
-# raw data
-# runs done
-# results
-# further work
-
+# Abstract [changed]
+# Research questions
+# Raw data
+# Runs done
+# Results
+# Further work
+# References
+# Appendices
 
