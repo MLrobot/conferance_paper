@@ -1,4 +1,7 @@
-our submission to bioinformatics 2019
+Bioinformatics 2019
+new better title :-)
+
+...authors..
 
 # Abstract [changed]
 # Research questions
